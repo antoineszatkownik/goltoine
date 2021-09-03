@@ -16,10 +16,5 @@ Here is the alphabet being used : <br />
 
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/goltoine2_1.gif)
 
-Snapshots of some initial and final iterations : <br />
-![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/vlcsnap-2021-09-03-19h45m33s806.jpg)
-![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/vlcsnap-2021-09-03-19h47m24s156.jpg)
-![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/vlcsnap-2021-09-03-19h51m37s160.jpg)
-![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/vlcsnap-2021-09-03-19h52m43s186.jpg)
 
 Credits to Jean Macquet
