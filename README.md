@@ -23,7 +23,7 @@ Example of a sequence of iterations : <br />
 # How to use
 
 Simply change the names of the paths.
-Create a directory "goltoine", put the goltoine.py code in it and the elements of the alphabet, create in "goltoine" directory a directory named "set" where the iterations will be saved.
+Create a folder named "goltoine", put the goltoine.py code in it and the elements of the alphabet, create in "goltoine" folder a folder named "set", this is where the iterations will be saved.
 
 ***What you can change :*** <br />
 the number of iterations with the "nbframe" variable
