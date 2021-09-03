@@ -26,8 +26,8 @@ Simply change the names of the paths.
 Create a folder named "goltoine", put the goltoine.py code in it and the elements of the alphabet, create in "goltoine" folder a folder named "set", this is where the iterations will be saved.
 
 ***What you can change :*** <br />
-the number of iterations with the "nbframe" variable
-the size of the grid with the variable "taille"
+the number of iterations with the "nbframe" variable <br />
+the size of the grid with the variable "taille" <br />
 the frame rate per second with the variable fps (the gif was made with fps=10)
 
 
