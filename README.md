@@ -14,7 +14,7 @@ Here is the alphabet being used : <br />
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img8_bis.jpg)
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img9_bis.jpg)
 
-An example of iteration : 
+An example of iteration : <br />
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/goltoine2_1.gif)
 
 
