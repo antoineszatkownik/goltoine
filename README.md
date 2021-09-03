@@ -22,7 +22,13 @@ Example of sequence of iterations : <br />
 
 # How to use
 
-Symply change the names of the paths.
+Simply change the names of the paths.
+Create a directory "goltoine", put the goltoine.py code in it and the elements of the alphabet, create in "goltoine" directory a directory named "set" where the iterations will be saved.
+
+***What you can change :*** <br />
+the number of iterations with the "nbframe" variable
+the size of the grid with the variable "taille"
+the frame rate per second with the variable fps (the gif was made with fps=10)
 
 
 Credits to Jean Macquet
