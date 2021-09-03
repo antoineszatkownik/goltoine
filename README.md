@@ -4,8 +4,15 @@
 
 The interpretation of the result is of course left out to the viewer ;)
 
-Here is the alphabet being used :
+Here is the alphabet being used : <br />
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img1_bis.jpg)
+![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img2_bis.jpg)
+![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img3_bis.jpg)
+![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img4_bis.jpg)
+![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img5_bis.jpg)
+![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img6_bis.jpg)
+![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img8_bis.jpg)
+![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img9_bis.jpg)
 
 Some exemples of 
 
