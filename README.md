@@ -14,6 +14,7 @@ Here is the alphabet being used : <br />
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img8_bis.jpg)
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img9_bis.jpg)
 
-Some exemples of 
+Snapshots of some initial and final iterations : <br />
+![alt text](https://https://github.com/antoineszatkownik/goltoine/blob/main/data/vlcsnap-2021-09-03-19h45m33s806.png)
 
 Credits to Jean Macquet
