@@ -14,8 +14,15 @@ Here is the alphabet being used : <br />
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img8_bis.jpg)
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img9_bis.jpg)
 
-An example of iteration : <br />
+Example of sequence of iterations : <br />
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/goltoine2_1.gif)
+
+***Note 1 :*** You can use a blank square as an element of the alphabet to clear things out, which is being done above. <br />
+***Note 2 :*** You can use a different alphabet (the element of the alphabet have dimension 64*64) but of the same size (
+
+# How to use
+
+Change the names of the paths
 
 
 Credits to Jean Macquet
