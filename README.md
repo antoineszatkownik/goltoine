@@ -5,7 +5,7 @@
 The interpretation of the result is of course left out to the viewer ;)
 
 Here is the alphabet being used :
-![alt text](https://github.com/[antoineszatkownik]/[goltoine]/blob/[data]/img1_bis.jpg?raw=true)
+![alt text](https://github.com/[antoineszatkownik]/[goltoine]/blob/main/[data]/img1_bis.jpg?raw=true)
 
 Some exemples of 
 
