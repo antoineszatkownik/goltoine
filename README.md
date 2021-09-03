@@ -14,7 +14,7 @@ Here is the alphabet being used : <br />
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img8_bis.jpg)
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img9_bis.jpg)
 
-Example of sequence of iterations : <br />
+Example of a sequence of iterations : <br />
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/goltoinevid.gif)
 
 ***Note 1 :*** You can use a blank square as an element of the alphabet to clear things out, which is being done above. <br />
