@@ -31,5 +31,10 @@ the size of the grid with the variable "taille" <br />
 the frame rate per second with the "fps" variable (the gif was made with fps=10) <br />
 the alphabet (see Note 2)
 
+# Next
+
+What could be next :
+
+-add rotations 
 
 Credits to Jean Macquet
