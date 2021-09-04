@@ -28,7 +28,7 @@ Create a folder named "goltoine", put the goltoine.py code in it and the element
 ***What you can change :*** <br />
 the number of iterations with the "nbframe" variable <br />
 the size of the grid with the variable "taille" <br />
-the frame rate per second with the "fps" variable (the gif was made with fps=10)
+the frame rate per second with the "fps" variable (the gif was made with fps=10) <br />
 the alphabet (see Note 2)
 
 
