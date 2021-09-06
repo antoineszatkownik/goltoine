@@ -22,7 +22,7 @@ Example of a sequence of iterations : <br />
 
 # About the code
 
-<img src="https://render.githubusercontent.com/render/math?math=\sum_{k \in {1,...,n]} a_k*2**(k-1)">
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{k \in {1,...,n} a_k*2**(k-1)">
 
 # How to use
 
