@@ -45,7 +45,7 @@ the alphabet (see Note 2)
 
 # Next
 
-What could be next :
+What could be added next :
 
 -add rotations 
 
