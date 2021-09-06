@@ -22,7 +22,7 @@ Example of a sequence of iterations : <br />
 
 # About the code
 
-Let <img src="https://render.githubusercontent.com/render/math?math=\Omega"> be the alphabet of acrylic images, and <img src="https://render.githubusercontent.com/render/math?math=$n$">
+Let <img src="https://render.githubusercontent.com/render/math?math=\Omega"> be the alphabet of acrylic images, and <img src="https://render.githubusercontent.com/render/math?math=$n = |\Omega|$">
 
 <img src="https://render.githubusercontent.com/render/math?math=\sum_{k \in {1,...,n}} a_k \times 2^{k-1}">
 
