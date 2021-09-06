@@ -26,7 +26,7 @@ At each iteration of the goltoine, a cell represented as a letter in the alphabe
 
 Let <img src="https://render.githubusercontent.com/render/math?math=\Omega"> be the alphabet of acrylic images, <img src="https://render.githubusercontent.com/render/math?math=$n$"> the number of simultaneous GoL (i.e. grid) and <img src="https://render.githubusercontent.com/render/math?math=$t$"> the size in the <img src="https://render.githubusercontent.com/render/math?math=$X$"> or <img src="https://render.githubusercontent.com/render/math?math=$Y$"> dimension of the grid of a GoL. <br />
 In the goltoine's grid, each letter at the position <img src="https://render.githubusercontent.com/render/math?math=$x$"> corresponds to a <img src="https://render.githubusercontent.com/render/math?math=$n$"> -tuple <img src="https://render.githubusercontent.com/render/math?math=$(a_1,...,a_n) \in \{0,1\}^n$"> such that for <img src="https://render.githubusercontent.com/render/math?math=$M_{goltoine}$">, the underlying grid of the goltoine (which is a <img src="https://render.githubusercontent.com/render/math?math=$t \times t$"> matrix with values in <img src="https://render.githubusercontent.com/render/math?math=$\{0,...,2^{n}-1\}$">), we have <p align="center"> <img src="https://render.githubusercontent.com/render/math?math=$M_{goltoine}(x) = \sum_{k \in \{1,...,n\}} a_k \times 2^{k-1}$"> </p>  
-Thus <img src="https://render.githubusercontent.com/render/math?math=$|\Omega|=2^{n}$">
+<p align="left"> Thus <img src="https://render.githubusercontent.com/render/math?math=$|\Omega|=2^{n}$"> </p>
 
 
 # How to use
