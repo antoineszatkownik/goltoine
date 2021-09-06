@@ -33,7 +33,7 @@ The data structure used are : dictionaries, arrays, lists.
 ***Remark :*** The for loop coding the sum <br/>
 sum=0 <br/>
 for k in range(n): <br/>
-    sum+=grille_dic["grille{}".format(k+1)]*2**k <br/>
+&emsp &emsp &emsp &emsp sum+=grille_dic["grille{}".format(k+1)]*2**k <br/>
 Can be replaced
 
 # How to use
