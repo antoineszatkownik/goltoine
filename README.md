@@ -47,6 +47,6 @@ the alphabet (see Note 2)
 
 What could be added next :
 
--add rotations 
+-add rotations on the letters/cells
 
 Credits to Jean Macquet
