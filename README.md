@@ -8,10 +8,10 @@ Here is the alphabet being used : <br />
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img1_bis.jpg)
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img2_bis.jpg)
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img3_bis.jpg)
-![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img3_bis%20(2).jpg)
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img4_bis.jpg)
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img5_bis.jpg)
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img6_bis.jpg)
+![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img7_bis.jpg)
 ![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/img8_bis.jpg)
 
 Example of a sequence of iterations : <br />
