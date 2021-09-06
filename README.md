@@ -25,7 +25,7 @@ Example of a sequence of iterations : <br />
 At each iteration of the goltoine, a cell represented as a letter in the alphabet is encoded by 3 bits given by 3 simultaneous black and white Game of Life. More precisely : <br />
 
 Let <img src="https://render.githubusercontent.com/render/math?math=\Omega"> be the alphabet of acrylic images, and <img src="https://render.githubusercontent.com/render/math?math=$n$"> the number of simultaneous Game of Life (i.e. grid). <br />
-In the goltoine, each letter at the position <img src="https://render.githubusercontent.com/render/math?math=$x$"> corresponds to a <img src="https://render.githubusercontent.com/render/math?math=$n-uple (a_1,...,a_n) \in \{0,1\}^n$">
+In the goltoine, each letter at the position <img src="https://render.githubusercontent.com/render/math?math=$x$"> corresponds to a <img src="https://render.githubusercontent.com/render/math?math=$n$-uple $(a_1,...,a_n) \in \{0,1\}^n$">
 
 <img src="https://render.githubusercontent.com/render/math?math=\sum_{k \in {1,...,n}} a_k \times 2^{k-1}">
 
