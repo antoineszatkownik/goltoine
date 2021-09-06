@@ -22,7 +22,7 @@ Example of a sequence of iterations : <br />
 
 # About the code
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{j \in C} x_j">
 
 # How to use
 
