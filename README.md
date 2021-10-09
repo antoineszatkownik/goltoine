@@ -47,7 +47,7 @@ the alphabet (see Note 2)
 
 What could be added next :
 
--use GANs to generate new alphabets
+-use GANs to generate new alphabets <br />
 -add rotations on the letters/cells
 
 Credits to Jean Macquet
