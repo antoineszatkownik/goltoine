@@ -20,6 +20,10 @@ Example of a sequence of iterations : <br />
 ***Note 1 :*** You can use a blank square as an element of the alphabet to clear things out, which is being done above. <br />
 ***Note 2 :*** You can use a different alphabet (the element of the alphabet have dimension 64*64) but of the same size (8), otherwise you will have to use a different encryption and it should be an alphabet of size 2**n for n a strictly positive integer corresponding to the number of grids used for the encryption.
 
+A version with an alphabet of chunk of faces.
+
+![alt text](https://github.com/antoineszatkownik/goltoine/blob/main/data/goltoinevid1.gif)
+
 # About the code
 
 At each iteration of the goltoine, a cell represented as a letter in the alphabet is encoded by 3 bits given by 3 simultaneous black and white Game of Life (=GoL). More precisely : <br />
