@@ -34,7 +34,7 @@ In the goltoine's grid, each letter at the position $x$ corresponds to a $n$-tup
 
 The data structure used are : dictionaries, arrays, lists.
 
-***Remark :*** This sum was computed by a for loop yet it can be computed from a scalar product between $\<a_1,...,a_n\>$ and $\{<2^{0},...,2^{n-1}>\}^\top$ in order to decrease the time complexity. The details on this scalar product were added as a comment on the for loop in the code, and not implemented because as a result the goltoine showed a far less diverse usage of the letters of the alphabet.
+***Remark :*** This sum was computed by a for loop yet it can be computed from a scalar product between $(a_1,...,a_n)$ and $\(2^{0},...,2^{n-1})^\top$ in order to decrease the time complexity. The details on this scalar product were added as a comment on the for loop in the code, and not implemented because as a result the goltoine showed a far less diverse usage of the letters of the alphabet.
 
 # How to use
 
