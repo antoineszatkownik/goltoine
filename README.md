@@ -28,8 +28,8 @@ A version with an alphabet of chunk of faces.
 
 At each iteration of the goltoine, a cell represented as a letter in the alphabet is encoded by 3 bits given by 3 simultaneous black and white Game of Life (=GoL). More precisely : <br />
 
-Let $\Omega$ be the alphabet of acrylic images, $n$ the number of simultaneous GoL (i.e. grid) and $t$ the size in the <img src="https://render.githubusercontent.com/render/math?math=$X$"> or <img src="https://render.githubusercontent.com/render/math?math=$Y$"> dimension of the grid of a GoL. <br />
-In the goltoine's grid, each letter at the position $x$ corresponds to a $n$-tuple $(a_1,...,a_n) \in \lbrace0,1\rbrace^n$ such that for $M_{goltoine}$, the underlying grid of the goltoine (which is a $t \times t$ matrix), we have <p align="center"> $M_{goltoine}(x) = \sum_{k \in \{1,...,n\}} a_k \times 2^{k-1}    \in \lbrace0,...,2^{n}-1\rbrace$ </p>  
+Let $\Omega$ be the alphabet of acrylic images, $n$ the number of simultaneous GoL (i.e. grid) and $t$ the size in the $X$ or $Y$ dimension of the grid of a GoL. <br />
+In the goltoine's grid, each letter at the position $x$ corresponds to a $n$-tuple $(a_1,...,a_n) \in \lbrace0,1\rbrace^n$ such that for $M_{goltoine}$, the underlying grid of the goltoine (which is a $t \times t \times n$ tensor), we have <p align="center"> $M_{goltoine}(x) = \sum_{k \in \{1,...,n\}} a_k \times 2^{k-1}    \in \lbrace0,...,2^{n}-1\rbrace$ </p>  
 <p align="left"> Thus $|\Omega|=2^{n}$. This sum is a linear combination of the $n$ simultaneous GoL. </p>
 
 The data structure used are : dictionaries, arrays, lists.
