@@ -28,13 +28,13 @@ A version with an alphabet of chunk of faces.
 
 At each iteration of the goltoine, a cell represented as a letter in the alphabet is encoded by 3 bits given by 3 simultaneous black and white Game of Life (=GoL). More precisely : <br />
 
-Let <img src="https://render.githubusercontent.com/render/math?math=\Omega"> $\Omega$ be the alphabet of acrylic images, <img src="https://render.githubusercontent.com/render/math?math=$n$"> the number of simultaneous GoL (i.e. grid) and <img src="https://render.githubusercontent.com/render/math?math=$t$"> the size in the <img src="https://render.githubusercontent.com/render/math?math=$X$"> or <img src="https://render.githubusercontent.com/render/math?math=$Y$"> dimension of the grid of a GoL. <br />
-In the goltoine's grid, each letter at the position <img src="https://render.githubusercontent.com/render/math?math=$x$"> corresponds to a <img src="https://render.githubusercontent.com/render/math?math=$n$"> -tuple <img src="https://render.githubusercontent.com/render/math?math=$(a_1,...,a_n) \in \{0,1\}^n$"> such that for <img src="https://render.githubusercontent.com/render/math?math=$M_{goltoine}$">, the underlying grid of the goltoine (which is a <img src="https://render.githubusercontent.com/render/math?math=$t \times t$"> matrix), we have <p align="center"> <img src="https://render.githubusercontent.com/render/math?math=$M_{goltoine}(x) = \sum_{k \in \{1,...,n\}} a_k \times 2^{k-1}    \in \{0,...,2^{n}-1\}$"> </p>  
-<p align="left"> Thus <img src="https://render.githubusercontent.com/render/math?math=$|\Omega|=2^{n}$">. This sum is a linear combination of the <img src="https://render.githubusercontent.com/render/math?math=$n$"> simultaneous GoL. </p>
+Let $\Omega$ be the alphabet of acrylic images, $n$ the number of simultaneous GoL (i.e. grid) and $t$ the size in the <img src="https://render.githubusercontent.com/render/math?math=$X$"> or <img src="https://render.githubusercontent.com/render/math?math=$Y$"> dimension of the grid of a GoL. <br />
+In the goltoine's grid, each letter at the position $x$ corresponds to a $n$-tuple $(a_1,...,a_n) \in \{0,1\}^n$ such that for $M_{goltoine}$, the underlying grid of the goltoine (which is a $t \times t$ matrix), we have <p align="center"> $M_{goltoine}(x) = \sum_{k \in \{1,...,n\}} a_k \times 2^{k-1}    \in \{0,...,2^{n}-1\}$ </p>  
+<p align="left"> Thus $|\Omega|=2^{n}$. This sum is a linear combination of the $n$ simultaneous GoL. </p>
 
 The data structure used are : dictionaries, arrays, lists.
 
-***Remark :*** This sum was computed by a for loop yet it can be computed from a scalar product between <img src="https://render.githubusercontent.com/render/math?math=$<a_1,...,a_n>$"> and <img src="https://render.githubusercontent.com/render/math?math=${<2^{0},...,2^{n-1}>}^\top$"> in order to decrease the time complexity. The details on this scalar product were added as a comment on the for loop in the code, and not implemented because as a result the goltoine showed a far less diverse usage of the letters of the alphabet.
+***Remark :*** This sum was computed by a for loop yet it can be computed from a scalar product between $<a_1,...,a_n>$ and ${<2^{0},...,2^{n-1}>}^\top$ in order to decrease the time complexity. The details on this scalar product were added as a comment on the for loop in the code, and not implemented because as a result the goltoine showed a far less diverse usage of the letters of the alphabet.
 
 # How to use
 
